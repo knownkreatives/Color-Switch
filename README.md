@@ -10,4 +10,4 @@ play it on itch.io down bellow
   </a>
 </iframe>
 
-or <a href="2.0/Web/Game/index.html"></a>
+or <a href="2.0\Web\index.html"></a>
