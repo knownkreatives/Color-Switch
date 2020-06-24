@@ -10,4 +10,10 @@ play it on itch.io down bellow
   </a>
 </iframe>
 
-or <a href="2.0\Web\index.html"></a>
+or
+
+<iframe frameborder="0" src="https://itch.io/embed-upload/2404786?color=333333" allowfullscreen="" width="500" height="520">
+  <a href="https://knownkreatives.itch.io/test">
+    Play TEST on itch.io
+    </a>
+</iframe>
