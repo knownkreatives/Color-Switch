@@ -14,7 +14,7 @@ play it on itch.io down below:<hr>
 </iframe>
 
 or over here:<hr>
-<iframe frameborder="0" src="https://itch.io/embed-upload/2404786?color=19000f" allowfullscreen="" width="520" height="580">
+<iframe frameborder="0" src="https://itch.io/embed-upload/2404786?color=19000f" allowfullscreen="" width="550" height="600">
   <a href="https://knownkreatives.itch.io/color-switch">
     Play Color-Switch on itch.io
   </a>
